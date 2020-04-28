@@ -1,0 +1,4 @@
+Paracetamol 14 8 12.50
+Brufen 12 7 18.90
+Ibuprofen 18.5 12 12
+Captopril 12.9 8 15.90
